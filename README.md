@@ -13,6 +13,8 @@ This project is a comprehensive ESP32-based biometric attendance system. It feat
 
 ## Hardware Components & Wiring
 
+![Hardware Wiring Diagram](wiring_diagram.jpg)
+
 | Component | Pin / Interface | ESP32 Pin |
 |-----------|----------------|-----------|
 | **OLED Display** | I2C SDA | GPIO 21 |
